@@ -1,120 +1,31 @@
-<h1 align="center">Hi 👋, I'm Shruti Pailwan</h1>
+# 👋 Hi, I'm Shruti Pailwan
 
-<h3 align="center">
-🎓 IT Engineering Student | 💻 Full Stack Developer | 🚀 MERN Stack Enthusiast
-</h3>
+## 🚀 About Me
 
-<p align="center">
-Passionate about building scalable web applications, solving DSA problems, and continuously learning modern technologies.
-</p>
-
----
-
-## 👩‍💻 About Me
-
-- 🌱 Currently learning **NestJS, Swagger & Backend Development**
-- 🚀 Working on **Civic AI** and **MediDrop**
-- 💻 Interested in **Full Stack Web Development**
-- 📚 Solving **Data Structures & Algorithms**
-- 🎯 Goal: Become a Software Engineer
-- ⚡ Fun Fact: I enjoy turning ideas into real-world applications.
+- 🎓 IT Engineering Student
+- 💻 Passionate about Full Stack Web Development
+- 🌱 Currently learning **NestJS, DSA & Backend Development**
+- 📫 Reach me at **shrutipailwan1@gmail.com**
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-
-<a href="https://www.linkedin.com/in/shruti-pailwan-967a09347/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:shrutipailwan1@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shruti-pailwan-967a09347/)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail)](mailto:shrutipailwan1@gmail.com)
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=javascript" />
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=nodejs" />
-<img src="https://skillicons.dev/icons?i=express" />
-<img src="https://skillicons.dev/icons?i=nestjs" />
-<img src="https://skillicons.dev/icons?i=mongodb" />
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=cpp" />
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=vscode" />
-<img src="https://skillicons.dev/icons?i=postman" />
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-### 🏛️ Civic AI
-AI-powered civic issue reporting platform built using the MERN Stack.
-
-### 💊 MediDrop
-Unused Medicine Donation & Redistribution System.
-
-### 🌐 Full Stack Web Applications
-Modern responsive web applications using React, Node.js, Express, and MySQL.
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
----
-
-# 🔥 GitHub Streak
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
-
----
-
-# 💻 Most Used Languages
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&margin-w=15&margin-h=15)
-
----
-
-# 📈 Contribution Graph
-
-[![Shruti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)](https://github.com/YOUR_GITHUB_USERNAME)
-
----
-
-## ✨ Quote
-
-> **"Learn • Build • Grow 🚀"**
-
----
-
-<p align="center">
-⭐ Thanks for visiting my profile! ⭐
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
