@@ -6,7 +6,7 @@
 - 💻 Passionate about Full Stack Web Development
 - 🌱 Currently learning **NestJS, DSA & Backend Development**
 - 💊 Built **MediDrop** – Unused Medicine Donation & Redistribution System
-- 🏛️ Currently working on **CivicConnect** – AI-Powered Civic Issue Reporting Platform
+- 🏛️ Currently working on **CivicConnect** –  Civic Issue Reporting Platform
 - 📫 Reach me at **shrutipailwan1@gmail.com**
 
 ---
