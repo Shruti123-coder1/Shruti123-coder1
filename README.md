@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shruti Pailwan
+# Hi, I'm Shruti Pailwan
 
 ## 🚀 About Me
 
