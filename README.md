@@ -52,10 +52,5 @@
 - 🌐 **Full Stack Web Applications**
 
 ---
-## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shruti123-coder1&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shruti123-coder1&layout=compact&theme=tokyonight" />
-</p>
 ⭐ **Learn • Build • Grow 🚀**
