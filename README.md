@@ -45,12 +45,5 @@
 
 ---
 
-## 🚀 Featured Projects
-
-- 💊 **MediDrop** – Unused Medicine Donation & Redistribution System
-- 🏛️ **CivicConnect** – Civic Issue Reporting Platform
-- 🌐 **Full Stack Web Applications**
-
----
 
 ⭐ **Learn • Build • Grow 🚀**
