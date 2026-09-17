@@ -78,4 +78,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </p>
-⭐ **Learn • Build • Grow 🚀**
+
+---
+
+⭐ Learn • Build • Grow 🚀
